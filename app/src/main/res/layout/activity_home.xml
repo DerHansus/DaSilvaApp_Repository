@@ -12,7 +12,7 @@
          this as a sliding drawer on the left side for left-to-right
          languages and on the right side for right-to-left languages.
          If you're not building against API 17 or higher, use
-         android:layout_gravity="left" instead. -->
+         android:layout_gravity="left" instead. nein -->
     <!-- The drawer is given a fixed width in dp and extends the full height of
          the container. -->
     <fragment android:id="@+id/navigation_drawer"
